@@ -1,5 +1,5 @@
 {
-  "name": "gulp-multi-dest",
+  "name": "@nju33/gulp-multi-dest",
   "description": "Multiple destination helpers for Gulp",
   "version": "0.0.1",
   "main": "./gulp-multi-dest.js",
@@ -22,5 +22,8 @@
   },
   "scripts": {
     "test": "xo && ava"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
