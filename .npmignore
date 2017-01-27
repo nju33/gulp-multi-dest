@@ -1,0 +1,6 @@
+.travis.yml
+*.md
+*.json
+*.yml
+.*
+test.js

@@ -1,0 +1,26 @@
+{
+  "name": "gulp-multi-dest",
+  "description": "Multiple destination helpers for Gulp",
+  "version": "0.0.0",
+  "main": "./gulp-multi-dest.js",
+  "repository": "nju33/gulp-multi-dest",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "dependencies": {
+    "lazypipe": "^1.0.1",
+    "lodash.curry": "^4.1.1",
+    "lodash.flatten": "^4.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "path-exists": "^3.0.0",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": 2
+  },
+  "scripts": {
+    "test": "xo && ava"
+  }
+}
