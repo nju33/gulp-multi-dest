@@ -1,7 +1,7 @@
 {
   "name": "@nju33/gulp-multi-dest",
   "description": "Multiple destination helpers for Gulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./gulp-multi-dest.js",
   "repository": "nju33/gulp-multi-dest",
   "author": "nju33 <nju33.ki@gmail.com>",
