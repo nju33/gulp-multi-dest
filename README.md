@@ -19,8 +19,8 @@ gulp.src(pattern).pipe(multiDest(gulp.dest, [dest1, dest2, ...]));
 ## Install
 
 ```bash
-yarn add -D gulp-multi-dest
-npm i -D gulp-multi-dest
+yarn add -D @nju33/gulp-multi-dest
+npm i -D @nju33/gulp-multi-dest
 ```
 
 ## License
