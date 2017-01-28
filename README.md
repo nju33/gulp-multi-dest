@@ -8,7 +8,7 @@ Multiple destination helpers for [Gulp](https://github.com/gulpjs/gulp)
 
 ```js
 const gulp = require('gulp');
-const multiDest = requrie('gulp-multi-dest');
+const multiDest = requrie('@nju33/gulp-multi-dest');
 
 const dest = multiDest(gulp.dest);
 gulp.src(pattern).pipe(dest([dest1, dest2, ...]));
